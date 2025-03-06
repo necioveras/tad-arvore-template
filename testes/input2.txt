@@ -1,0 +1,43 @@
+-i 50
+-i 17
+-i 72
+-i 12
+-i 23
+-i 54
+-i 76
+-bc
+-bt
+-a
+-spre
+-c
+-i 50
+-i 17
+-i 72
+-i 12
+-i 23
+-bc
+-bt
+-a
+-spre
+-c
+-i 50
+-i 17
+-i 72
+-i 12
+-i 76
+-bc
+-bt
+-a
+-spre
+-c
+-i 10
+-i 5
+-i 20
+-i 2
+-i 7
+-i 30
+-bc
+-bt
+-a
+-spre
+-f

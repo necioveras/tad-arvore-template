@@ -1,0 +1,30 @@
+-i 15
+-i 3
+-i 30
+-spre
+-r 3
+-spre
+-c
+-i 15
+-i 10
+-i 30
+-i 3
+-spre
+-a
+-r 10
+-spre
+-a
+-c
+-i 15
+-i 10
+-i 30
+-i 3
+-i 12
+-i 11
+-i 13
+-spre
+-a
+-r 10
+-spre
+-a
+-f

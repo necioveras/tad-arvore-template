@@ -1,0 +1,22 @@
+-i 15
+-i 10
+-i 20
+-i 5
+-i 18
+-i 25
+-i 16
+-i 19
+-i 22
+-i 30
+-i 21
+-i 17
+-ssim
+-spre
+-spos
+-menor
+-b 10
+-a
+-bc
+-bt
+-suc 20
+-f
