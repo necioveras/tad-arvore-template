@@ -6,7 +6,7 @@ expected_output="Eh arvore binaria cheia
 Eh arvore binaria completa
 Altura: 2
 Pre-ordem: 50 17 12 23 72 54 76
-Eh arvore binaria cheia
+Nao eh arvore binaria cheia
 Eh arvore binaria completa
 Altura: 2
 Pre-ordem: 50 17 12 23 72
@@ -15,9 +15,9 @@ Nao eh arvore binaria completa
 Altura: 2
 Pre-ordem: 50 17 12 72 76
 Nao eh arvore binaria cheia
-Nao eh arvore binaria completa
+Eh arvore binaria completa
 Altura: 2
-Pre-ordem: 10 5 2 7 20 30"
+Pre-ordem: 10 5 2 7 15 12"
 
 
 if [ $? -eq 0 ] ; then
